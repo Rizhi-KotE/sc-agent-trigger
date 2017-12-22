@@ -9,5 +9,5 @@ node index.js <question_sys_idtf> [<sys_idtfs_of_arguments> ...]
 ```
 for instance
 ```
-node index.js ui_menu_view_full_semantic_neighborhood ui_start_sc_elementy
+node index.js ui_menu_view_full_semantic_neighborhood ui_start_sc_element
 ```
